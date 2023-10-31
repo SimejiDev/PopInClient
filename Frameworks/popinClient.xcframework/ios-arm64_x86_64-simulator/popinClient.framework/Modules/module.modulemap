@@ -1,0 +1,6 @@
+framework module popinClient {
+  umbrella header "popinClient.h"
+
+  export *
+  module * { export * }
+}
